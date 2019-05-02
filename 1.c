@@ -4,4 +4,5 @@ void main()
 {
 	int a,b;
 	int *p=&a;
+	printf("");
 }
